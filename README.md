@@ -26,7 +26,7 @@ sudo apt-get install python3-tk
 ```
 ## How to run 
 1. Download or Clone the Repository
-git clone https://github.com//YourRepoName.git
+git clone [https://github.com//YourRepoName.git](https://github.com/sarthakpdt/Python-Face-Detection-System.git)
 cd YourRepoName
 2. Run the Application
 python face_recognition_system.py
