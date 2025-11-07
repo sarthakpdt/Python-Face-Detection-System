@@ -26,18 +26,19 @@ sudo apt-get install python3-tk
 ```
 ## How to run 
 1. Download or Clone the Repository
-git clone https://github.com/YourUserName/YourRepoName.git
+git clone https://github.com//YourRepoName.git
 cd YourRepoName
 2. Run the Application
 python face_recognition_system.py
 
 ## Project Structure
+```
 📂 Project Folder
 │
 ├── face_recognition_system.py      # Main Application Code
 ├── faces/                          # Auto-created folder storing face images
 └── README.md                       # Documentation File
-
+```
 ## Technologies Used
 GUI:-Tkinter
 Face Detection:-	OpenCV (Haar Cascade)
